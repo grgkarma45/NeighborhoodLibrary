@@ -1,7 +1,6 @@
 package NeighborhoodLibrary;
 
 import java.util.Scanner;
-//import java.lang.ClassNotFoundException: Main;
 
 
 public class Main {
